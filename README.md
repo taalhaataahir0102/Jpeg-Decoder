@@ -11,3 +11,9 @@ All of the three codes will work only for Baseline JPEG with Huffman-Encoding, 8
 # Language Comparison
 In the performance evaluation, C demonstrated the highest execution speed, followed by Mojo, which exhibited approximately 1.5 times lower performance than C. Python, being an interpreted language, showed the slowest execution speed, lagging nearly 100 times behind C. The y-axis in the line graph is presented in logarithmic cycles in millions to enhance the visibility of differences between Mojo, C, and Python implementations. The line graph visualizes the performance across the three image sizes, providing a comprehensive comparison.
 ![alt text](https://github.com/taalhaataahir0102/Jpeg-Decoder/blob/main/graph/graph.png)
+
+The following table shows the total cycles taken by the Jpeg decoder algorithm (excluding the cycles taken for file reading and writing) for each language:
+
+![alt text](https://github.com/taalhaataahir0102/Jpeg-Decoder/blob/main/graph/table.png)
+
+These cycles were measured through perf profiling tool
