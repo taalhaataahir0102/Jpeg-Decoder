@@ -1,5 +1,3 @@
-# Jpeg-Decoder
-
 # Mojo Introduction
 Mojo is a super-charged language that delivers C-like performance with the user-friendliness of Python. It's designed to bridge the gap between research and production, empowering you to write lightning-fast code without sacrificing readability or ease of use. Think of it as Python on steroids, ready to tackle computationally intensive tasks with ease. Mojo is a young but ambitious programming language making waves in the AI world. Mojo aims to address a key pain point: unlocking AI hardware's full potential without sacrificing developer experience. Currently in a preview release, Mojo has already garnered interest from both academia and industry. While not yet open-source, the creators plan to make it so in the future
 # JPEG Decoder Overview
